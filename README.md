@@ -1,4 +1,4 @@
-#Movie Rating Prediction | 
-#Using Neural Networks (ANN) |
-#Sentiment Analysis 
+Movie Rating Prediction 
+Neural Networks (ANN)
+Sentiment Analysis 
 
