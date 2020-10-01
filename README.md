@@ -1,7 +1,11 @@
-Movie Rating Prediction 
+# Movie Rating Prediction 
 
-Neural Networks (ANN)
+Using :
 
-Sentiment Analysis 
+## Neural Networks (ANN)
 
-.
+as well as
+
+## Sentiment Analysis 
+
+
